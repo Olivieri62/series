@@ -1,2 +1,3 @@
 #En tête
-plateforme;nom_serie;saison;
+plateforme;nom_serie;saison
+Canal;The English;1
