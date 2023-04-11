@@ -1,2 +1,6 @@
- #En tête
+#En tête
 plateforme;nom_serie;saison;date_debut;date_fin;note
+#Series
+Canal;Your honnor;2;08/04/2023;en cours;
+Warner;Succession;4;01/04/2023;en cours;
+Netfix;Vikings;3;01/02/2023;en cours;
