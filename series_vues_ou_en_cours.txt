@@ -9,3 +9,4 @@ Paramount;1883;1;01/02/2023;01/03/2023;4
 Paramount;Tulsa King;1;01/03/2023;01/04/2023;4
 Paramount;Tulsa King;2;01/03/2023;01/04/2023;4
 Arte;Esterno Notte;1;01/03/2023;01/04/2023;5
+Warner;White Lotus ;2;01/04/2023;en cours;
