@@ -1,7 +1,7 @@
 #En tête
 plateforme;nom_serie;saison;date_debut;date_fin;note
 #Series
-Canal;Your honnor;2;01/04/2023;en cours;
+Canal;Your honnor;2;01/04/2023;16/04/2023;
 Warner;Succession;4;01/04/2023;en cours;
 Netflix;Vikings;3;01/02/2023;en cours;
 Netflix;Better Call Saul;1;01/02/2023;01/03/2023;5
