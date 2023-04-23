@@ -1,7 +1,15 @@
 #En tête
-plateforme;nom_serie;saison
-Canal;The English;1
-Paramount;1923;1
-Paramount;Rabbit Hole;1
-ParamountLove Me;1
-Paramount;A moi le nuit, toi le jour;1
+plateforme;nom_serie;saison;note Presse; note spectateurs
+Canal;The English;1;4.0;4.1
+Paramount;1923;1;3.9;4.1
+Paramount;Rabbit Hole;1;3.6;3.6
+Paramount;Love Me;1;;3.3
+Paramount;A moi le nuit, toi le jour;1;3;8;3.5
+Canal ;BRI;1
+Prime Video;Salade greque;1;3.7;3.8
+Apple;Les Gouttes de Dieu;1;
+Netflix;Acharnés;1;
+Canal;Happy Valley;3;;3.7
+Netflix;La diplomate;1;;3.7
+Arte;Blackport;1;3.9;3.3
+Apple;Ted lasso;1;;4.2
