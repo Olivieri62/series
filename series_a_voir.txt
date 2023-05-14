@@ -8,7 +8,6 @@ Prime Video;Salade greque;1;3.7;3.8
 Apple;Les Gouttes de Dieu;1;
 Netflix;Acharnés;1;4.1;4.2;https://www.allocine.fr/series/ficheserie_gen_cserie=28766.html
 Canal;Happy Valley;3;;3.8;https://www.allocine.fr/series/ficheserie-11658/saison-35713/
-Netflix;La diplomate;1;3.7;3.9;https://www.allocine.fr/series/ficheserie_gen_cserie=31197.html
 Arte;Blackport;1;3.9;3.3
 Apple;Ted lasso;1;;4.2
 Prime video;Le pouvoir;1;3.8;3.0;https://www.allocine.fr/series/ficheserie_gen_cserie=24808.html
